@@ -74,4 +74,4 @@ projects, following this step to contibute
 
 > Remove/replace this `README.md` for your awesome projects, or replace with your awesome readme,
 
-> change author name in `package.json` with yor name
+> change author name in `package.json` with your name
